@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "group": "test_item",
+  "ingredient": {
+    "id": "mana_and_artifice_addon_by_ronin31313:new_test_item"
+  },
+  "result": "mana_and_artifice_addon_by_ronin31313:test_item"
+}
