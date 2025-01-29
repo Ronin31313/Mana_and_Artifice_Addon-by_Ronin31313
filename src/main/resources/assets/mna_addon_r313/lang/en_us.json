@@ -1,0 +1,11 @@
+{
+  "item.mna_addon_r313.sapphire": "Sapphire",
+  "item.mna_addon_r313.raw_sapphire": "Raw Sapphire",
+  "item.mna_addon_r313.metal_detector": "Metal Detector",
+
+  "block.mna_addon_r313.block_of_sapphire": "Block of Sapphire",
+  "block.mna_addon_r313.block_of_raw_sapphire": "Block of raw Sapphire",
+  "block.mna_addon_r313.sapphire_ore": "Sapphire Ore",
+
+  "creativetab.test_tab": "Test Creative Tab"
+}

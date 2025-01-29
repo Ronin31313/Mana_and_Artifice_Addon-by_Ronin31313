@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "mna_addon_r313:block_of_sapphire"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "mna_addon_r313:blocks/block_of_sapphire"
+}

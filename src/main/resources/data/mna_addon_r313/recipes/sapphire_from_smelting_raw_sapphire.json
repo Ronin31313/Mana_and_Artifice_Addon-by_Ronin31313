@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "sapphire",
+  "ingredient": {
+    "item": "mna_addon_r313:raw_sapphire"
+  },
+  "result": "mna_addon_r313:sapphire"
+}

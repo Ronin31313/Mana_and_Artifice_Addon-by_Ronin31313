@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "mana_and_artifice_addon_by_ronin31313:block/test_block"
-  }
-}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "mna_addon_r313:sapphire"
+    }
+  },
+  "result": {
+    "item": "mna_addon_r313:block_of_sapphire"
+  }
+}
